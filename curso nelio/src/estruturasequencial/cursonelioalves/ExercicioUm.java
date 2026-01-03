@@ -1,3 +1,5 @@
+package estruturasequencial.cursonelioalves;
+
 import java.util.Locale;
 
 public class ExercicioUm {
